@@ -6,7 +6,8 @@ I recently graduated with a degree in multimedia computing, and I'm passionate a
 
 ___
 
-##Skilla
+##Skills
+
 ### Web Development
 - PHP
 - MySQL
