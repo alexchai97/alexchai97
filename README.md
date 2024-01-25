@@ -4,6 +4,30 @@ I recently graduated with a degree in multimedia computing, and I'm passionate a
 
 📧 Reach out to me at [alexchai@xcalex.com](mailto:alexchai@xcalex.com) - let's collaborate on something amazing! 😄
 
+___
+
+##Skilla
+### Web Development
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+- UX Design
+
+### Programming
+- Java
+- VB.Net
+- C#
+- C++
+
+### Design
+- Adobe Photoshop
+- Adobe InDesign
+- Adobe Illustrator
+- Adobe XD
 
 <!---
 alexchai97/alexchai97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
